@@ -1,0 +1,9 @@
+{
+  "libraries": [
+    "@/slices",
+    "vue-essential-slices"
+  ],
+  "_latest": "0.0.43",
+  "apiEndpoint": "https://test-sm1512.cdn.wroom.io/api/v2",
+  "storybook": "http://localhost:3003"
+}

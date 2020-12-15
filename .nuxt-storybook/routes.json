@@ -1,0 +1,15 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/renaudbressand/Work/my-slicemachine-project1512/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_1c24b186"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/renaudbressand/Work/my-slicemachine-project1512/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9289a15e"
+  }
+]
